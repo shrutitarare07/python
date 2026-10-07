@@ -17,4 +17,9 @@ city="Mandhal"
 
 print(f"My name is {name}, I am {age} years old and I live in {city}.")
 
+text="python programming"
+print(text[0])
+print(text[1])
 
+print(text[0:6])
+print(text[7:18])
